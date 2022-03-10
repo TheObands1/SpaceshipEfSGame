@@ -1,0 +1,5 @@
+D:\ArkdeProyects\EfectoStudioTestSpace\SpaceshipEfSGame\SpaceTravel\Intermediate\Build\Win64\UE4Editor\Development\SpaceTravel\Definitions.SpaceTravel.h
+D:\ArkdeProyects\EfectoStudioTestSpace\SpaceshipEfSGame\SpaceTravel\Source\SpaceTravel\Public\ST_TargetLocationSpawner.h
+D:\ArkdeProyects\EfectoStudioTestSpace\SpaceshipEfSGame\SpaceTravel\Intermediate\Build\Win64\UE4Editor\Inc\SpaceTravel\ST_TargetLocationSpawner.generated.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/BillboardComponent.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BillboardComponent.generated.h

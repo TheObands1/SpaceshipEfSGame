@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SpaceTravel.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D56EF2E2-490D-4661-AE4A-37C94382D986}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SpaceTravel.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SpaceTravelEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D157F869-CEC6-4529-BB19-F40823F126C2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SpaceTravel">
+      <UniqueIdentifier>{8E12B435-B56B-4EAC-B6CF-53CB92DC2DAE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SpaceTravel\SpaceTravel.Build.cs">
+      <Filter>Source\SpaceTravel</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SpaceTravel\SpaceTravel.cpp">
+      <Filter>Source\SpaceTravel</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceTravel\SpaceTravel.h">
+      <Filter>Source\SpaceTravel</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceTravel\SpaceTravelGameModeBase.cpp">
+      <Filter>Source\SpaceTravel</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceTravel\SpaceTravelGameModeBase.h">
+      <Filter>Source\SpaceTravel</Filter>
+    </ClInclude>
+    <Filter Include="Source\SpaceTravel\Private">
+      <UniqueIdentifier>{D784FFBA-8542-48DB-A2CF-25D173CF7820}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SpaceTravel\Private\ST_FuelWidget.cpp">
+      <Filter>Source\SpaceTravel\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpaceTravel\Private\ST_Planet.cpp">
+      <Filter>Source\SpaceTravel\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpaceTravel\Private\ST_Spaceship.cpp">
+      <Filter>Source\SpaceTravel\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpaceTravel\Private\ST_TargetLocationSpawner.cpp">
+      <Filter>Source\SpaceTravel\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\SpaceTravel\Public">
+      <UniqueIdentifier>{6F2AA0D6-67C6-40EA-8644-C8463371FE93}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\SpaceTravel\Public\ST_FuelWidget.h">
+      <Filter>Source\SpaceTravel\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SpaceTravel\Public\ST_Planet.h">
+      <Filter>Source\SpaceTravel\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SpaceTravel\Public\ST_Spaceship.h">
+      <Filter>Source\SpaceTravel\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SpaceTravel\Public\ST_TargetLocationSpawner.h">
+      <Filter>Source\SpaceTravel\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

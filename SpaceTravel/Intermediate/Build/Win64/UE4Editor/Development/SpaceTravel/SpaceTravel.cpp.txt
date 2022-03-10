@@ -1,0 +1,2 @@
+D:\ArkdeProyects\EfectoStudioTestSpace\SpaceshipEfSGame\SpaceTravel\Intermediate\Build\Win64\UE4Editor\Development\SpaceTravel\Definitions.SpaceTravel.h
+D:\ArkdeProyects\EfectoStudioTestSpace\SpaceshipEfSGame\SpaceTravel\Source\SpaceTravel\SpaceTravel.h

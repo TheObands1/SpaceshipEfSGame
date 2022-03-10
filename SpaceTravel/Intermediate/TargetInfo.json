@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SpaceTravel",
+			"Path": "D:\\ArkdeProyects\\EfectoStudioTestSpace\\SpaceshipEfSGame\\SpaceTravel\\Source\\SpaceTravel.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SpaceTravelEditor",
+			"Path": "D:\\ArkdeProyects\\EfectoStudioTestSpace\\SpaceshipEfSGame\\SpaceTravel\\Source\\SpaceTravelEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
